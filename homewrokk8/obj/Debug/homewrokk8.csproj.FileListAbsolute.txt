@@ -1,2 +1,0 @@
-C:\Users\asus\RiderProjects\jpg562\homewrokk8\obj\Debug\homewrokk8.csproj.AssemblyReference.cache
-C:\Users\asus\RiderProjects\jpg562\homewrokk8\obj\Debug\homewrokk8.csproj.CoreCompileInputs.cache
